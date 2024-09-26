@@ -23,6 +23,8 @@ public class Calculator {
         double resultSub = num3 - num4;
         System.out.println("El resultado de la resta es: " + resultSub);
 
+        
+
         scanner.close();
     }
 }
