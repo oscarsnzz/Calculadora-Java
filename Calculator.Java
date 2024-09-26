@@ -32,6 +32,7 @@ public class Calculator {
         double resultMul = num5 * num6;
         System.out.println("El resultado de la multiplicación es: " + resultMul);
 
+
         scanner.close();
     }
 }
