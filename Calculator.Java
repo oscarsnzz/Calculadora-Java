@@ -45,8 +45,6 @@ public class Calculator {
             System.out.println("Error: División por cero no permitida.");
         }
 
-
-
         scanner.close();
     }
 }
